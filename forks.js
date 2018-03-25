@@ -16,7 +16,6 @@ var toFork = ['http://2.bp.blogspot.com/_NpINLHeo8rM/TLcz-gU2mbI/AAAAAAAA2N8/ILZ
   'https://cdn.shopify.com/s/files/1/0164/6254/products/cool_colorblock_forks_web_large.jpg',
   'https://images-na.ssl-images-amazon.com/images/I/41lIa-nlkiL._SL500_.jpg',
   'http://1.bp.blogspot.com/_NpINLHeo8rM/S_zRv-DrZcI/AAAAAAAAy-g/JAWb490AC6c/s1600/20.jpg',
-  'https://shechive.files.wordpress.com/2010/05/cool-forks-3.jpg',
   'https://i.pinimg.com/236x/68/85/bd/6885bdff374126a93e5d6d1cc07a14db--convex-mirror-sunburst-mirror.jpg',
   'https://www.ateriet.com/wp-content/uploads/2015/03/hard-rock-1-e1425886705148.jpg',
   'https://lh6.googleusercontent.com/-tPm2WTdaOIQ/Te9gLwk3vGI/AAAAAAAADRQ/1QnI8slVhVE/s800/creative-kitchen-gadgets-fork-2.jpg',
