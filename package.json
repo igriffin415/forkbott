@@ -2,9 +2,9 @@
   "name": "Fork Boy",
   "description": "Forks!!",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "fork-bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node fork-bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
