@@ -1,3 +1,4 @@
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
@@ -6,11 +7,9 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-  if(message.author != client.user){
-    for (i = 0; i < 4; i++) {
-      message.channel.send('Dick Cheney made money off the Iraq War.');
-    }
-  }
+    if (message.content === 'ping') {
+    	message.reply('pong');
+  	}
 });
 
 // THIS  MUST  BE  THIS  WAY
