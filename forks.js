@@ -20,7 +20,10 @@ var toFork = ['http://2.bp.blogspot.com/_NpINLHeo8rM/TLcz-gU2mbI/AAAAAAAA2N8/ILZ
   'https://www.ateriet.com/wp-content/uploads/2015/03/hard-rock-1-e1425886705148.jpg',
   'https://lh6.googleusercontent.com/-tPm2WTdaOIQ/Te9gLwk3vGI/AAAAAAAADRQ/1QnI8slVhVE/s800/creative-kitchen-gadgets-fork-2.jpg',
   'http://static.neatorama.com/images/2006-01/fork-art.jpg',
-  'https://cdn.discordapp.com/attachments/385190849644068884/385256441864388610/348s.jpg' ];
+  'https://cdn.discordapp.com/attachments/385190849644068884/385256441864388610/348s.jpg',
+  'http://static.neatorama.com/images/2006-01/fork-art.jpg',
+  'https://www.travelmag.co.uk/wp-content/uploads/2015/04/140415forkbracelet.jpg,'
+  'https://www.thegreenhead.com/imgs/calamete-pasta-fork-2.jpg' ];
 
 exports.largeArrayFunction = function() {
      //do stuff
