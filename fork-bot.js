@@ -9,7 +9,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content.substring(0, 1) == '!') {
+  //  if (message.content.substring(0, 1) == '!') {
         var args = message.content.substring(1).split(' ');
         var cmd = args[0];
 
@@ -27,7 +27,7 @@ client.on('message', message => {
             break;
             // Just add any case commands if you want to..
          }
-     }
+    // }
 });
 
 
