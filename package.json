@@ -1,7 +1,7 @@
 {
-  "name": "Fork Boy",
-  "description": "Forks!!",
-  "version": "1.0.0",
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
   "main": "fork-bot.js",
   "scripts": {
     "start": "node fork-bot.js"
