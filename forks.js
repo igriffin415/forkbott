@@ -22,7 +22,7 @@ var toFork = ['http://2.bp.blogspot.com/_NpINLHeo8rM/TLcz-gU2mbI/AAAAAAAA2N8/ILZ
   'http://static.neatorama.com/images/2006-01/fork-art.jpg',
   'https://cdn.discordapp.com/attachments/385190849644068884/385256441864388610/348s.jpg',
   'http://static.neatorama.com/images/2006-01/fork-art.jpg',
-  'https://www.travelmag.co.uk/wp-content/uploads/2015/04/140415forkbracelet.jpg,'
+  'https://www.travelmag.co.uk/wp-content/uploads/2015/04/140415forkbracelet.jpg',
   'https://www.thegreenhead.com/imgs/calamete-pasta-fork-2.jpg' ];
 
 exports.largeArrayFunction = function() {
