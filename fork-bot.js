@@ -1,8 +1,8 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-var forks = require("./forks.js");
-var theForks = forks.largeArrayFunction();
+// var forks = require("./forks.js");
+// var theForks = forks.largeArrayFunction();
 
 client.on('ready', () => {
     console.log('I am ready!');
@@ -16,8 +16,8 @@ client.on('message', message => {
         args = args.splice(1);
         switch(cmd) {
             case 'fork':
-              var fork = theForks[ (Math.floor(Math.random() * theForks.length)) ];
-              message.channel.send(fork);
+              //var fork = theForks[ (Math.floor(Math.random() * theForks.length)) ];
+              message.channel.send("wow");
               break;
             case 'iloveisabelle':
               message.channel.send("isabelle is your god now and also the best coder");
